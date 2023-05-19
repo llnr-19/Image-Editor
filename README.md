@@ -16,7 +16,7 @@ The app allows users to import photos from the gallery, crop them, add stickers,
 ## Installation
 
 1. Clone this repository to your local machine using the following command:
-git clone https://github.com/llnr-19/Image-Editor.git
+git clone https://github.com/llnr-19/image-editor.git
 
 ## Contributing
 
